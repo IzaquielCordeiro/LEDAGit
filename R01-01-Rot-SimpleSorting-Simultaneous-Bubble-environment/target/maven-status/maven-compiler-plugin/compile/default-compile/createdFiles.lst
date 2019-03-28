@@ -1,0 +1,7 @@
+util/Util.class
+sorting/AbstractSorting.class
+sorting/variationsOfBubblesort/SimultaneousBubblesort.class
+sorting/simpleSorting/InsertionSort.class
+sorting/simpleSorting/BubbleSort.class
+sorting/simpleSorting/SelectionSort.class
+sorting/Sorting.class
