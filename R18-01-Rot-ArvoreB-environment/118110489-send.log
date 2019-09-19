@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-13T14:19:37.507-0300</date>
+  <logger>IZAQUIEL LUIZ DE FRANCA CORDEIRO</logger>
+  <level>FINE</level>
+  <message>File 118110489-IZAQUIEL LUIZ DE FRANCA CORDEIRO.zip was received. It was sent by IZAQUIEL LUIZ DE FRANCA CORDEIRO from IP 150.165.42.163 at 13-06-2019 14*19*37</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-14T18:14:21.460-0300</date>
+  <logger>IZAQUIEL LUIZ DE FRANCA CORDEIRO</logger>
+  <level>FINE</level>
+  <message>File 118110489-IZAQUIEL LUIZ DE FRANCA CORDEIRO.zip was received. It was sent by IZAQUIEL LUIZ DE FRANCA CORDEIRO from IP 192.168.0.135 at 14-06-2019 18*14*21</message>
+</record>
